@@ -1,6 +1,6 @@
 ## sandbox-go
 
-A docker container with perl6 based on JJ/alpine-perl6 .
+A docker container with perl6 based on JJ/alpine-perl6.
 
 It includes:
 
